@@ -1,0 +1,29 @@
+.facebook-icon {
+  background-color: #1877f2;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+
+.facebook-icon:hover {
+  transform: scale(1.1);
+}
+
+.youtube-icon {
+  background-color: #ff0000;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.2s;
+}
+
+.youtube-icon:hover {
+  transform: scale(1.1);
+}

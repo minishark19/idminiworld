@@ -1,0 +1,310 @@
+[
+  {
+    "number": "1",
+    "name": "Khủng Long Hóa Thạch Thường",
+    "id": "3430",
+    "image_url": "/images/than_thu/3430.png",
+    "level": 0
+  },
+  {
+    "number": "1",
+    "name": "Khủng Long Hóa Thạch",
+    "id": "3431",
+    "image_url": "/images/than_thu/3431.png",
+    "level": 1
+  },
+  {
+    "number": "1",
+    "name": "Khủng Long Hóa Thạch Siêu Cấp",
+    "id": "3432",
+    "image_url": "/images/than_thu/3432.png",
+    "level": 2
+  },
+  {
+    "number": "2",
+    "name": "Sóc Bay Nhỏ",
+    "id": "3433",
+    "image_url": "/images/than_thu/3433.png",
+    "level": 0
+  },
+  {
+    "number": "2",
+    "name": "Sóc Bay Nhanh Nhẹn",
+    "id": "3434",
+    "image_url": "/images/than_thu/3434.png",
+    "level": 1
+  },
+  {
+    "number": "2",
+    "name": "Sóc Bay Láu Cá",
+    "id": "3435",
+    "image_url": "/images/than_thu/3435.png",
+    "level": 2
+  },
+  {
+    "number": "3",
+    "name": "Kỳ Lân",
+    "id": "3436",
+    "image_url": "/images/than_thu/3436.png",
+    "level": 0
+  },
+  {
+    "number": "3",
+    "name": "Thần Kỳ Lân",
+    "id": "3437",
+    "image_url": "/images/than_thu/3437.png",
+    "level": 1
+  },
+  {
+    "number": "3",
+    "name": "Kỳ Lân May Mắn",
+    "id": "3438",
+    "image_url": "/images/than_thu/3438.png",
+    "level": 2
+  },
+  {
+    "number": "4",
+    "name": "Chocobo",
+    "id": "3439",
+    "image_url": "/images/than_thu/3439.png",
+    "level": 0
+  },
+  {
+    "number": "4",
+    "name": "Chocobo Thông Minh",
+    "id": "3440",
+    "image_url": "/images/than_thu/3440.png",
+    "level": 1
+  },
+  {
+    "number": "4",
+    "name": "Chocobo Nghịch Ngợm",
+    "id": "3441",
+    "image_url": "/images/than_thu/3441.png",
+    "level": 2
+  },
+  {
+    "number": "5",
+    "name": "Chú Voi Con",
+    "id": "3442",
+    "image_url": "/images/than_thu/3442.png",
+    "level": 0
+  },
+  {
+    "number": "5",
+    "name": "Voi Vui Vẻ",
+    "id": "3443",
+    "image_url": "/images/than_thu/3443.png",
+    "level": 1
+  },
+  {
+    "number": "5",
+    "name": "Voi Lễ Hội",
+    "id": "3444",
+    "image_url": "/images/than_thu/3444.png",
+    "level": 2
+  },
+  {
+    "number": "6",
+    "name": "Sư Tử Biển Thủy Thủ",
+    "id": "3445",
+    "image_url": "/images/than_thu/3445.png",
+    "level": 0
+  },
+  {
+    "number": "6",
+    "name": "Sư Tử Biển Thuyền Trưởng",
+    "id": "3446",
+    "image_url": "/images/than_thu/3446.png",
+    "level": 1
+  },
+  {
+    "number": "6",
+    "name": "Boss Sư Tử Biển",
+    "id": "3447",
+    "image_url": "/images/than_thu/3447.png",
+    "level": 2
+  },
+  {
+    "number": "7",
+    "name": "Mèo Thần Tài",
+    "id": "3454",
+    "image_url": "/images/than_thu/3454.png",
+    "level": 0
+  },
+  {
+    "number": "7",
+    "name": "Mèo Phát Lộc",
+    "id": "3455",
+    "image_url": "/images/than_thu/3455.png",
+    "level": 1
+  },
+  {
+    "number": "7",
+    "name": "Mèo Vũ Sư",
+    "id": "3456",
+    "image_url": "/images/than_thu/3456.png",
+    "level": 2
+  },
+  {
+    "number": "8",
+    "name": "Bạch Mã",
+    "id": "3457",
+    "image_url": "/images/than_thu/3457.png",
+    "level": 0
+  },
+  {
+    "number": "8",
+    "name": "Thiên Mã",
+    "id": "3458",
+    "image_url": "/images/than_thu/3458.png",
+    "level": 1
+  },
+  {
+    "number": "8",
+    "name": "Thần Mã",
+    "id": "3459",
+    "image_url": "/images/than_thu/3459.png",
+    "level": 2
+  },
+  {
+    "number": "9",
+    "name": "Kiệu Tre Cổ Điển",
+    "id": "3460",
+    "image_url": "/images/than_thu/3460.png",
+    "level": 0
+  },
+  {
+    "number": "9",
+    "name": "Kiệu Vàng",
+    "id": "3461",
+    "image_url": "/images/than_thu/3461.png",
+    "level": 1
+  },
+  {
+    "number": "9",
+    "name": "Kiệu Hoa Đào",
+    "id": "3462",
+    "image_url": "/images/than_thu/3462.png",
+    "level": 2
+  },
+  {
+    "number": "10",
+    "name": "Mộc Long Thần",
+    "id": "3469",
+    "image_url": "/images/than_thu/3469.png",
+    "level": 0
+  },
+  {
+    "number": "10",
+    "name": "Hỏa Long Thần",
+    "id": "3470",
+    "image_url": "/images/than_thu/3470.png",
+    "level": 1
+  },
+  {
+    "number": "10",
+    "name": "Hắc Long Thần",
+    "id": "3471",
+    "image_url": "/images/than_thu/3471.png",
+    "level": 2
+  },
+  {
+    "number": "11",
+    "name": "Trăng Rằm",
+    "id": "3478",
+    "image_url": "/images/than_thu/3478.png",
+    "level": 0
+  },
+  {
+    "number": "11",
+    "name": "Trăng Ngọc",
+    "id": "3479",
+    "image_url": "/images/than_thu/3479.png",
+    "level": 1
+  },
+  {
+    "number": "11",
+    "name": "Tiên Trăng",
+    "id": "3480",
+    "image_url": "/images/than_thu/3480.png",
+    "level": 2
+  },
+  {
+    "number": "12",
+    "name": "Xe Tuần Lộc Gỗ",
+    "id": "3483",
+    "image_url": "/images/than_thu/3483.png",
+    "level": 0
+  },
+  {
+    "number": "12",
+    "name": "Xe Tuần Lộc Vàng",
+    "id": "3484",
+    "image_url": "/images/than_thu/3484.png",
+    "level": 1
+  },
+  {
+    "number": "12",
+    "name": "Xe Tuần Lộc Băng",
+    "id": "3485",
+    "image_url": "/images/than_thu/3485.png",
+    "level": 2
+  },
+  {
+    "number": "13",
+    "name": "Pony Motor",
+    "id": "3487",
+    "image_url": "/images/than_thu/3487.png",
+    "level": 1
+  },
+  {
+    "number": "14",
+    "name": "Bò May Mắn",
+    "id": "3489",
+    "image_url": "/images/than_thu/3489.png",
+    "level": 1
+  },
+  {
+    "number": "15",
+    "name": "Transcendent Peak",
+    "id": "3490",
+    "image_url": "/images/than_thu/3490.png",
+    "level": 0
+  },
+  {
+    "number": "15",
+    "name": "Ngọn Lửa Phương Bắc",
+    "id": "3491",
+    "image_url": "/images/than_thu/3491.png",
+    "level": 1
+  },
+  {
+    "number": "15",
+    "name": "Chân Trời Trôi Dạt",
+    "id": "3492",
+    "image_url": "/images/than_thu/3492.png",
+    "level": 2
+  },
+  {
+    "number": "16",
+    "name": "Bộ Bộ Liên Hoa",
+    "id": "3495",
+    "image_url": "/images/than_thu/3495.png",
+    "level": 0
+  },
+  {
+    "number": "16",
+    "name": "Hoa Bay Tuyết Nhảy",
+    "id": "3496",
+    "image_url": "/images/than_thu/3496.png",
+    "level": 1
+  },
+  {
+    "number": "16",
+    "name": "Kính Hoa Thủy Nguyệt",
+    "id": "3497",
+    "image_url": "/images/than_thu/3497.png",
+    "level": 2
+  }
+]

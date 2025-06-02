@@ -1,0 +1,54 @@
+.caption-tag {
+  border-radius: 9999px;
+  padding: 6px 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  color: white;
+}
+
+.caption-green {
+  background-color: #68b984;
+}
+
+.caption-blue {
+  background-color: #5b8fb9;
+}
+
+.caption-purple {
+  background-color: #7b68ee;
+}
+
+.caption-orange {
+  background-color: #ff9f45;
+}
+
+.caption-pink {
+  background-color: #ff6b6b;
+}
+
+.caption-teal {
+  background-color: #38b2ac;
+}
+
+.caption-red {
+  background-color: #e53e3e;
+}
+
+.caption-yellow {
+  background-color: #ecc94b;
+}
+
+.hidden-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease-out;
+}
+
+.visible-content {
+  max-height: 500px;
+  transition: max-height 0.5s ease-in;
+}
